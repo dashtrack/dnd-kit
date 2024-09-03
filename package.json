@@ -4,6 +4,9 @@
   "author": "Claudéric Demers",
   "license": "MIT",
   "private": true,
+  "engines": {
+    "node": "18.17.1"
+  },
   "workspaces": [
     "packages/*"
   ],
